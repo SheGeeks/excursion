@@ -1,5 +1,5 @@
 # Excursion App Landing Page
-A Codecademy Project from the Fullstack Web Development Career Path
+*A Codecademy Project from the Fullstack Web Development Career Path*
 
 **Goal:** Create a landing page for a travel mobile app
 
